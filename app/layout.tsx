@@ -23,6 +23,9 @@ const spaceGrotesk = Space_Grotesk({
 export const metadata: Metadata = {
   title: "Portfolio - Jay Pandya",
   description: "Frontend Developer building thoughtful, user-focused web experiences",
+  icons: {
+    icon: "./J.png",
+  },
 };
 
 export default function RootLayout({
