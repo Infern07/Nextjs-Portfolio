@@ -20,6 +20,22 @@ interface JourneyEntry {
 
 const journeyEntries: JourneyEntry[] = [
   {
+    year: "Jan 2026 – Apr 2026",
+    title: "Intern – Full Stack Development",
+    institution: "Reliance Industries Ltd.",
+    details:
+      "Developed full-stack features with Angular on the frontend and Node.js with Oracle SQL on the backend. Enhanced the RMEAL application UI with responsive components, designed and optimized SQL for large-scale material and chemical datasets, built and tested REST APIs for frontend–backend integration, and improved reliability of enterprise data workflows.",
+    grade: "On-site",
+  },
+  {
+    year: "Dec 2024 – Jan 2025",
+    title: "Intern – Web Development",
+    institution: "Mamo Technolabs",
+    details:
+      "Built user-friendly web interfaces and contributed to front-end development using HTML, CSS, JavaScript, and Tailwind CSS.",
+    grade: "Hybrid",
+  },
+  {
     year: "2022-2026",
     title: "Bachelor of Engineering",
     institution: "Sardar Vallabhbhai Patel Institute of Technology",
