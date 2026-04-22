@@ -19,6 +19,19 @@ interface Project {
 
 const projects: Project[] = [
   {
+    title: "Cocomo Media",
+    link: "https://cocomo-media.vercel.app/",
+    date: "2026",
+    description:
+      "A kinetic marketing and creative media showcase: bold typography, scroll-driven motion, and sections for services (social, performance, SEO, e-commerce, content, and influencer), in-house studio capabilities, and selected work. Built to feel like a high-end digital agency presence with a monolithic, editorial layout.",
+    role: "Frontend Developer",
+    stack: ["React", "Next.js", "Tailwind CSS", "Vercel"],
+    outcome:
+      "Shipped a polished marketing site that presents Cocomo’s offer, studio setup, and global footprint with a strong visual identity and clear calls to action.",
+    takeaway:
+      "Pairing strong art direction with performant, responsive layouts helps agency sites feel premium while staying easy to maintain and deploy.",
+  },
+  {
     title: "NESTCRAFT",
     link: "https://nestcraft.vercel.app/",
     date: "2024",
